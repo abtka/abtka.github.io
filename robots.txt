@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abtka.github.io/xoa/sitemap.xoa.gz
